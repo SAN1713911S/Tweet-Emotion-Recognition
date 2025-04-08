@@ -12,7 +12,7 @@ The model architecture consisted of an embedding layer followed by two bidirecti
 
 Training was conducted over several epochs, and the model achieved a training accuracy above 98% and a validation accuracy above 93%. Once trained, the model was evaluated on the test set, reaching a final accuracy of **91.84%**.
 
-To assess the results, training and validation metrics were visualized, a confusion matrix was plotted, and individual predictions were compared to their true labels. An example showed the model correctly predicting "fear" for a tweet about feeling safe and loved.
+To assess the results, training and validation metrics were visualized, a confusion matrix was plotted, and individual predictions were compared to their true labels. An example showed the model correctly predicting "anger" for a tweet about feeling frustrated and angry.
 
 ## ✅ Conclusion
 
